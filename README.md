@@ -8,6 +8,7 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ## Contents
 
+- [What is effective altruism?](#what-is-effective-altruism)
 - [The Basics](#the-basics)
 - [Essential reading](#essential-reading)
 - [Charity evaluators](#charity-evaluators)
@@ -16,9 +17,9 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 - [EA Organizations](#ea-organisations)
 - [See also](#see-also)
 
-## The Basics
+## What is effective altruism?
 
-_Effective altruism is about answering one simple question: how can we use our resources to help others the most?
+<blockquote><em>Effective altruism is about answering one simple question: how can we use our resources to help others the most?
 
 Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
 
@@ -26,7 +27,9 @@ Working on a cause is likely to be high impact to the extent that it is:
 
 - *Great in scale* (it affects many people’s lives, by a great amount)
 - *Highly neglected* (few other people are working on addressing the problem), and
-- *Highly solvable* (additional resources will do a great deal to address it).<sup>[1](#footnote1)</sup>_
+- *Highly solvable* (additional resources will do a great deal to address it).</em><sup>[1](#footnote1)</sup></blockquote>
+
+## The Basics
 
 * [Introduction to Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 * [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/)
