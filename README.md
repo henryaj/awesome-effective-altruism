@@ -10,6 +10,8 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 - [The Basics](#the-basics)
 - [Essential reading](#essential-reading)
+- [Charity evaluators](#charity-evaluators)
+- [Popular causes](#popular-causes)
 - [Join the discussion](#join-the-discussion)
 - [EA Organizations](#ea-organisations)
 - [See also](#see-also)
@@ -34,6 +36,33 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 * [80,000 Hours Career Guide](https://80000hours.org/career-guide/)
 * [Hits-based Giving](https://www.openphilanthropy.org/blog/hits-based-giving)
 * [Money: The Unit of Caring](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
+
+## Charity evaluators
+
+* [GiveWell](https://www.givewell.org/) - evaluates and promotes outstanding human health interventions
+* [Animal Charity Evaluators](https://animalcharityevaluators.org/) - researching highly effective charities that help animals
+
+## Popular causes
+
+### Global health
+
+* [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/) - distributing mosquito nets to those in malarial areas; considered by some the world's most effective intervention
+* [GiveDirectly](https://givedirectly.org/) - cash transfers to those in extreme poverty
+* [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) - working with governments to eliminate neglected tropical diseases
+
+### Animal welfare
+
+* [Why Farmed Animals?](https://animalcharityevaluators.org/donation-advice/why-farmed-animals/)
+* [The Importance of Wild Animal Suffering](https://foundational-research.org/the-importance-of-wild-animal-suffering/)
+
+### Existential risk
+
+* [MIRI](https://intelligence.org/) - developing a mathematical theory of trustworthy reasoning for AI
+* [OpenAI](http://openai.com) - researching the path to safe general AI
+
+### Outreach and community-building 
+
+TODO
 
 ## Join the discussion
 
