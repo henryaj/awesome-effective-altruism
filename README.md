@@ -18,15 +18,15 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ## The Basics
 
-> Effective altruism is about answering one simple question: how can we use our resources to help others the most?
-> 
-> Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+_Effective altruism is about answering one simple question: how can we use our resources to help others the most?
 
-> Working on a cause is likely to be high impact to the extent that it is:
->
-> * _Great in scale_ (it affects many people’s lives, by a great amount)
-> * _Highly neglected_ (few other people are working on addressing the problem), and
-> * _Highly solvable_ (additional resources will do a great deal to address it).<sup>[1](#footnote1)</sup>
+Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+
+Working on a cause is likely to be high impact to the extent that it is:
+
+- *Great in scale* (it affects many people’s lives, by a great amount)
+- *Highly neglected* (few other people are working on addressing the problem), and
+- *Highly solvable* (additional resources will do a great deal to address it).<sup>[1](#footnote1)</sup>_
 
 * [Introduction to Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 * [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/)
@@ -44,11 +44,21 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ## Popular causes
 
+**Popular charities**
+
+| **Global development**<sup>a</sup> | **Animal welfare**<sup>b</sup> | **Far future & existential risk** | **Community-building** |
+|:---------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/) | [Animal Equality](https://animalequality.org/) | [OpenAI](http://openai.com) | [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) |
+| [GiveDirectly](https://givedirectly.org/) | [The Humane League](http://www.thehumaneleague.com/) | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) |  |
+| [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) | [The Good Food Institute](http://www.gfi.org/) | [MIRI](https://intelligence.org/) |  |
+| [Evidence Action](https://www.evidenceaction.org/) |  | [Center for the Study of Existential Risk](https://www.cser.ac.uk/) |  |
+
+**a**: recommended by [GiveWell](https://www.givewell.org/) <br>
+**b**: recommended by [Animal Charity Evaluators](https://animalcharityevaluators.org/)
+
 ### Global health
 
-* [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/) - distributing mosquito nets to those in malarial areas; considered by some the world's most effective intervention
-* [GiveDirectly](https://givedirectly.org/) - cash transfers to those in extreme poverty
-* [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) - working with governments to eliminate neglected tropical diseases
+TODO
 
 ### Animal welfare
 
@@ -57,8 +67,7 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ### Existential risk
 
-* [MIRI](https://intelligence.org/) - developing a mathematical theory of trustworthy reasoning for AI
-* [OpenAI](http://openai.com) - researching the path to safe general AI
+TODO
 
 ### Outreach and community-building 
 
@@ -72,13 +81,13 @@ TODO
 ## EA Organizations
 
 * [Centre for Effective Altruism (CEA)](https://www.centreforeffectivealtruism.org/)
-* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) – investigating the crucial considerations shaping humanity's long-term future
 * [80,000 Hours](https://80000hours.org/) – advice on finding a fun, impactful career
 * [Foundational Research Institute](https://foundational-research.org) – examining how humanity can best reduce suffering
 * [Effective Altruism Foundation/Stiftung für Effektiven Altruismus](https://ea-foundation.org/) - helping grow the EA movement
 
 ## See also
 
+* [EA Blogs](http://eablogs.net/) - an EA blog aggregator
 * [LessWrong](https://www.lesswrong.com) - community blog for rationalists
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
 
