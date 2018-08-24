@@ -24,9 +24,7 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 >
 > * _Great in scale_ (it affects many people’s lives, by a great amount)
 > * _Highly neglected_ (few other people are working on addressing the problem), and
-> * _Highly solvable_ (additional resources will do a great deal to address it).
-
-_Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/)._
+> * _Highly solvable_ (additional resources will do a great deal to address it).<sup>[1](#footnote1)</sup>
 
 * [Introduction to Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 * [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/)
@@ -54,3 +52,5 @@ _Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.
 
 * [LessWrong](https://www.lesswrong.com) - community blog for rationalists
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
+
+[<a name="footnote1">1</a>]: Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/), © Centre for Effective Altruism 2018.
