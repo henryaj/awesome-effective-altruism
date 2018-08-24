@@ -97,4 +97,4 @@ TODO
 * [LessWrong](https://www.lesswrong.com) - community blog for rationalists
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
 
-[<a name="footnote1">1</a>]: Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/), © Centre for Effective Altruism 2018.
+<a name="footnote1">[1]</a> Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/), © Centre for Effective Altruism 2018.
