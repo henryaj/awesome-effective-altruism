@@ -49,10 +49,12 @@ Working on a cause is likely to be high impact to the extent that it is:
 
 **Popular charities**
 
+_Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate more effectively through philanthropic managed funds._
+
 | **Global development**<sup>a</sup> | **Animal welfare**<sup>b</sup> | **Far future & existential risk** | **Community-building** |
 |:---------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/) | [Animal Equality](https://animalequality.org/) | [OpenAI](http://openai.com) | [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) |
-| [GiveDirectly](https://givedirectly.org/) | [The Humane League](http://www.thehumaneleague.com/) | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) |  |
+| [GiveDirectly](https://givedirectly.org/) | [The Humane League](http://www.thehumaneleague.com/) | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) | [LEAN (Local Effective Altruism Network)](https://rtcharity.org/lean/) |
 | [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) | [The Good Food Institute](http://www.gfi.org/) | [MIRI](https://intelligence.org/) |  |
 | [Evidence Action](https://www.evidenceaction.org/) |  | [Center for the Study of Existential Risk](https://www.cser.ac.uk/) |  |
 
@@ -90,6 +92,7 @@ TODO
 
 ## See also
 
+* [Priority Wiki](http://priority.wiki/) - a cause prioritization website that anyone can edit
 * [EA Blogs](http://eablogs.net/) - an EA blog aggregator
 * [LessWrong](https://www.lesswrong.com) - community blog for rationalists
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
