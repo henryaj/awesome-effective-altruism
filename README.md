@@ -33,6 +33,7 @@ Working on a cause is likely to be high impact to the extent that it is:
 
 * [Introduction to Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
 * [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/)
+* [Effective Altruism: How Can We Best Help Others?](https://www.smashwords.com/books/view/874692)
 
 ## Essential reading
 
