@@ -64,7 +64,7 @@ _Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate
 
 ### Global health
 
-TODO
+* [The Drowning Child and the Expanding Circle](http://effective-altruism.com/ea/6u/the_drowning_child_and_the_expanding_circle/)
 
 ### Animal welfare
 
@@ -73,7 +73,8 @@ TODO
 
 ### Existential risk
 
-TODO
+* [Existential Risk: Diplomacy and Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Existential-Risks-2017-01-23.pdf)
+* [There's No Fire Alarm for Artificial General Intelligence](https://intelligence.org/2017/10/13/fire-alarm/)
 
 ### Outreach and community-building 
 
