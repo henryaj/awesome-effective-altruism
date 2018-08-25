@@ -17,7 +17,7 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 - [EA Organizations](#ea-organisations)
 - [See also](#see-also)
 
-## What is effective altruism?
+## What is effective altruism?<small><sup><a href="#footnote1"> 1</a></sup></small>
 
 <!-- apologies for the inline HTML - this is the only way to get this formatted properly! -->
 <p>Effective altruism is about answering one simple question: how can we use our resources to help others the most?</p>
@@ -29,7 +29,7 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 <ul>
   <li><strong>Great in scale</strong> (it affects many people’s lives, by a great amount)</li>
   <li><strong>Highly neglected</strong> (few other people are working on addressing the problem), and</li>
-  <li><strong>Highly solvable</strong> (additional resources will do a great deal to address it).<sup><a href="#footnote1">[1]</a></sup></li>
+  <li><strong>Highly solvable</strong> (additional resources will do a great deal to address it).</li>
 </ul>
 
 
