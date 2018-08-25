@@ -95,8 +95,8 @@ TODO
 
 ## EA Organizations
 
-* [Centre for Effective Altruism (CEA)](https://www.centreforeffectivealtruism.org/)
 * [80,000 Hours](https://80000hours.org/) – advice on finding a fun, impactful career
+  * [To find work you love, don't follow your passion](https://www.youtube.com/watch?v=MKlx1DLa9EA) 🎥
 * [Foundational Research Institute](https://foundational-research.org) – examining how humanity can best reduce suffering
 * [Effective Altruism Foundation/Stiftung für Effektiven Altruismus](https://ea-foundation.org/) - helping grow the EA movement
 
