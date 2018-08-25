@@ -19,15 +19,19 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ## What is effective altruism?
 
-<blockquote><em>Effective altruism is about answering one simple question: how can we use our resources to help others the most?
+<!-- apologies for the inline HTML - this is the only way to get this formatted properly! -->
+<blockquote><em><p>Effective altruism is about answering one simple question: how can we use our resources to help others the most?</p>
 
-Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+<p>Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.</p>
 
-Working on a cause is likely to be high impact to the extent that it is:
+<p>Working on a cause is likely to be high impact to the extent that it is:</p>
 
-- *Great in scale* (it affects many people’s lives, by a great amount)
-- *Highly neglected* (few other people are working on addressing the problem), and
-- *Highly solvable* (additional resources will do a great deal to address it).</em><sup>[1](#footnote1)</sup></blockquote>
+<ul>
+  <li><strong>Great in scale</strong> (it affects many people’s lives, by a great amount)</li>
+  <li><strong>Highly neglected</strong> (few other people are working on addressing the problem), and</li>
+  <li><strong>Highly solvable</strong> (additional resources will do a great deal to address it).</em><sup><a href="#footnote1">[1]</a></sup></li>
+</ul>
+</blockquote>
 
 ## The Basics
 
@@ -52,12 +56,16 @@ Working on a cause is likely to be high impact to the extent that it is:
 
 _Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate more effectively through philanthropic managed funds._
 
-| **Global development**<sup>a</sup> | **Animal welfare**<sup>b</sup> | **Far future & existential risk** | **Community-building** |
-|:---------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/) | [Animal Equality](https://animalequality.org/) | [OpenAI](http://openai.com) | [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) |
-| [GiveDirectly](https://givedirectly.org/) | [The Humane League](http://www.thehumaneleague.com/) | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) | [LEAN (Local Effective Altruism Network)](https://rtcharity.org/lean/) |
-| [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) | [The Good Food Institute](http://www.gfi.org/) | [MIRI](https://intelligence.org/) |  |
-| [Evidence Action](https://www.evidenceaction.org/) |  | [Center for the Study of Existential Risk](https://www.cser.ac.uk/) |  |
+| **Global development** | **Animal welfare** | **Far future & existential risk** | **Community-building** |
+|:---------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| [Against Malaria Foundation (AMF)](https://www.againstmalaria.com/)<sup>a</sup> | [Animal Equality](https://animalequality.org/)<sup>b</sup> | [OpenAI](http://openai.com) | [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) |
+| [GiveDirectly](https://givedirectly.org/)<sup>a</sup> | [The Humane League](http://www.thehumaneleague.com/)<sup>b</sup> | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) | [LEAN (Local Effective Altruism Network)](https://rtcharity.org/lean/) |
+| [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative)<sup>a</sup> | [The Good Food Institute](http://www.gfi.org/)<sup>b</sup> | [MIRI](https://intelligence.org/) |  |
+| [Evidence Action](https://www.evidenceaction.org/)<sup>a</sup> | [Mercy for Animals](https://mercyforanimals.org/) | [Center for the Study of Existential Risk](https://www.cser.ac.uk/) |  |
+|  | [Sentience Institute](https://www.sentienceinstitute.org/) | [Future of Life Institute](https://futureoflife.org/) |  |
+|  | [Compassion in World Farming USA](https://www.ciwf.com/) | [Global Catastrophic Risk Institute](https://gcrinstitute.org/) |  |
+|  | [Faunalytics](https://faunalytics.org/) | [ALLFED](http://allfed.info/) |  |
+|  |  | [Berkeley Existential Risk Initiative](http://existence.org/) |  |
 
 **a**: recommended by [GiveWell](https://www.givewell.org/) <br>
 **b**: recommended by [Animal Charity Evaluators](https://animalcharityevaluators.org/)
