@@ -65,7 +65,7 @@ _Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate
 |  | [Sentience Institute](https://www.sentienceinstitute.org/) | [Future of Life Institute](https://futureoflife.org/) |  |
 |  | [Compassion in World Farming USA](https://www.ciwf.com/) | [Global Catastrophic Risk Institute](https://gcrinstitute.org/) |  |
 |  | [Faunalytics](https://faunalytics.org/) | [ALLFED](http://allfed.info/) |  |
-|  |  | [Berkeley Existential Risk Initiative](http://existence.org/) |  |
+|  | [Animal Ethics](http://www.animal-ethics.org/) | [Berkeley Existential Risk Initiative](http://existence.org/) |  |
 
 **a**: recommended by [GiveWell](https://www.givewell.org/) <br>
 **b**: recommended by [Animal Charity Evaluators](https://animalcharityevaluators.org/)
