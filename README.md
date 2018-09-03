@@ -97,8 +97,9 @@ TODO
 
 * [80,000 Hours](https://80000hours.org/) – advice on finding a fun, impactful career
   * [To find work you love, don't follow your passion](https://www.youtube.com/watch?v=MKlx1DLa9EA) 🎥
+* [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/) - helping to grow and maintain the effective altruism movement
+* [Effective Altruism Foundation/Stiftung für Effektiven Altruismus](https://ea-foundation.org/) - developing, promoting, and implementing effective altruism
 * [Foundational Research Institute](https://foundational-research.org) – examining how humanity can best reduce suffering
-* [Effective Altruism Foundation/Stiftung für Effektiven Altruismus](https://ea-foundation.org/) - helping grow the EA movement
 
 ## See also
 
