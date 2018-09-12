@@ -62,10 +62,11 @@ _Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate
 | [GiveDirectly](https://givedirectly.org/)<sup>a</sup> | [The Humane League](http://www.thehumaneleague.com/)<sup>b</sup> | [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) | [LEAN (Local Effective Altruism Network)](https://rtcharity.org/lean/) |
 | [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative)<sup>a</sup> | [The Good Food Institute](http://www.gfi.org/)<sup>b</sup> | [MIRI](https://intelligence.org/) |  |
 | [Evidence Action](https://www.evidenceaction.org/)<sup>a</sup> | [Mercy for Animals](https://mercyforanimals.org/) | [Center for the Study of Existential Risk](https://www.cser.ac.uk/) |  |
-|  | [Sentience Institute](https://www.sentienceinstitute.org/) | [Future of Life Institute](https://futureoflife.org/) |  |
-|  | [Compassion in World Farming USA](https://www.ciwf.com/) | [Global Catastrophic Risk Institute](https://gcrinstitute.org/) |  |
-|  | [Faunalytics](https://faunalytics.org/) | [ALLFED](http://allfed.info/) |  |
-|  | [Animal Ethics](http://www.animal-ethics.org/) | [Berkeley Existential Risk Initiative](http://existence.org/) |  |
+| [Malaria Consortium](http://www.malariaconsortium.org/) | [Sentience Institute](https://www.sentienceinstitute.org/) | [Future of Life Institute](https://futureoflife.org/) |  |
+| [Helen Keller International](http://www.hki.org/) | [Compassion in World Farming USA](https://www.ciwf.com/) | [Global Catastrophic Risk Institute](https://gcrinstitute.org/) |  |
+| [Sightsavers](https://www.sightsavers.org/) | [Faunalytics](https://faunalytics.org/) | [ALLFED](http://allfed.info/) |  |
+| [The End Fund](http://www.end.org/) | [Animal Ethics](http://www.animal-ethics.org/) | [Berkeley Existential Risk Initiative](http://existence.org/) |  |
+|  | [Humane Slaughter Association](https://www.hsa.org.uk/) | [Center for Human-Compatible AI](https://humancompatible.ai/) |  |
 
 **a**: recommended by [GiveWell](https://www.givewell.org/) <br>
 **b**: recommended by [Animal Charity Evaluators](https://animalcharityevaluators.org/)
