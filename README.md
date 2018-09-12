@@ -83,6 +83,7 @@ _Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate
 
 * [Existential Risk: Diplomacy and Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Existential-Risks-2017-01-23.pdf)
 * [There's No Fire Alarm for Artificial General Intelligence](https://intelligence.org/2017/10/13/fire-alarm/)
+* [Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks](https://www.risksandreligion.org/)
 
 ### Outreach and community-building 
 
