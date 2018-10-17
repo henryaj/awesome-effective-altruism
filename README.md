@@ -52,9 +52,14 @@ Feel free to <a href="https://github.com/henryaj/awesome-effective-altruism/blob
 
 ## Popular causes
 
-**Popular charities**
+**Funds**
 
-_Check out [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate more effectively through philanthropic managed funds._
+Increasingly, donors are choosing to give money to "funds" – organisations which regrant money to the current-best charitable organizations.
+
+* [EA Funds](https://app.effectivealtruism.org/funds) - a way to donate more effectively through philanthropic managed funds
+* [Raising for Effective Giving](https://reg-charity.org/fund/)
+
+**Popular charities**
 
 | **Global development** | **Animal welfare** | **Far future & existential risk** | **Community-building** |
 |:---------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
