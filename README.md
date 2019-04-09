@@ -116,13 +116,3 @@ TODO
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
 
 <a name="footnote1">[1]</a> Excerpted from the [Effective Altruism Handbook](https://www.effectivealtruism.org/handbook/), © Centre for Effective Altruism 2018.
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110204412-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110204412-3');
-</script>
