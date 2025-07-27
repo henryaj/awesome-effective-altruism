@@ -112,7 +112,7 @@ TODO
 ## See also
 
 * [Priority Wiki](http://priority.wiki/) - a cause prioritization website that anyone can edit
-* [EA Blogs](http://eablogs.net/) - an EA blog aggregator
+* [EA News](http://ea.news/) - an EA blog aggregator
 * [LessWrong](https://www.lesswrong.com) - community blog for rationalists
 * [Slate Star Codex](http://slatestarcodex.com) - a blog about many things, including rationality and effective altruism
 
